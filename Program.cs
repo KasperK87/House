@@ -11,5 +11,5 @@ System.Console.WriteLine("|     |");
 System.Console.WriteLine("|_____|");
 */
 
-House house = new House();
+House house = new House(5);
 house.PrintHouse();
