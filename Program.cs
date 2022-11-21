@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//build a house with a door, a window, and a roof
+//build a house
 
+/*
 System.Console.WriteLine("   *  ");
 System.Console.WriteLine("  /*\\ ");
 System.Console.WriteLine(" /***\\ ");
@@ -8,3 +9,7 @@ System.Console.WriteLine(" -----");
 System.Console.WriteLine("|     |");
 System.Console.WriteLine("|     |");
 System.Console.WriteLine("|_____|");
+*/
+
+House house = new House();
+house.PrintHouse();
