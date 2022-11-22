@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kakr\\OneDrive - IBA Erhvervsakademi Kolding\\Dokumenter\\vscode\\House\\House.csproj",
+      "projectUniqueName": "C:\\Users\\kakr\\OneDrive - IBA Erhvervsakademi Kolding\\Dokumenter\\vscode\\factoryHouse\\House\\House.csproj",
       "projectName": "House",
-      "projectPath": "C:\\Users\\kakr\\OneDrive - IBA Erhvervsakademi Kolding\\Dokumenter\\vscode\\House\\House.csproj",
+      "projectPath": "C:\\Users\\kakr\\OneDrive - IBA Erhvervsakademi Kolding\\Dokumenter\\vscode\\factoryHouse\\House\\House.csproj",
       "packagesPath": "C:\\Users\\kakr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kakr\\OneDrive - IBA Erhvervsakademi Kolding\\Dokumenter\\vscode\\House\\obj\\",
+      "outputPath": "C:\\Users\\kakr\\OneDrive - IBA Erhvervsakademi Kolding\\Dokumenter\\vscode\\factoryHouse\\House\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

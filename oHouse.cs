@@ -1,5 +1,6 @@
 class House{
     private List<string> house = new List<string>();
+    public Creator myCreator = new JSONCreator();
     public House(){
         house.Add("   *  ");
         house.Add("  /*\\ ");
@@ -21,9 +22,7 @@ class House{
         house.Add("|_____|");
     }
 
-    public void PrintHouse(){
-        foreach(string line in house){
-            System.Console.WriteLine(line);
-        }
+    public Product createProduct(){
+        return myCreator.createProduct(house);
     }
 }

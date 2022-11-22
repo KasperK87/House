@@ -12,4 +12,6 @@ System.Console.WriteLine("|_____|");
 */
 
 House house = new House(5);
-house.PrintHouse();
+Product myHousePlan = house.createProduct();
+
+myHousePlan.print();
